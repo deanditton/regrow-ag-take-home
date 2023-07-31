@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="sdkUUID" value="26087c7b-c1b5-49cd-a049-8c81c4ddbbde" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (regrow_ag_take_home)" project-jdk-type="Python SDK" />
+</project>
